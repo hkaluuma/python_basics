@@ -18,3 +18,7 @@ git add file_name //to add the file with the file name
 git clone https://github.com/hkaluuma/python_basics.git // to clone a project codebase
 git stash //it ignores your changes to the code base
 git pull //to pull the code base and changes that someone else added to the repository
+git branch newbranch //to make a new branch called newbranch
+git branch  //to show the branch I am on
+git checkout newbranch //to switch to  a new branch called newbranch
+git branch --delete "branch-name" //to delete a branch called branch-name
